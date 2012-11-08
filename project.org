@@ -1,0 +1,11 @@
+* Hero on NES
+** Stuff to download
+*** TODO NES reference (memory layout and stuff)
+*** TODO 6502 reference (opcodes, memory modes)
+** Features
+*** TODO Bullet(s)
+*** TODO Room
+*** TODO Level
+*** TODO Drone
+** Done
+*** DONE Make player move around
